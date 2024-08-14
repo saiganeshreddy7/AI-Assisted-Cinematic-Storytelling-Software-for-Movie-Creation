@@ -4,6 +4,7 @@ AI-Assisted Cinematic Storytelling Software for Movie Creation
 AI-Assisted Cinematic Story telling Software
 for Movie Creation
 
+
 ABSTRACT
 With movie industry being a very dynamic field, the need for AI-based
 procedure has grown as of late to make things all the more simple and
